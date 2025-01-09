@@ -14,6 +14,6 @@ public class Crickets : MonoBehaviour
     void Update()
     {
         // Learning basic commands in c#
-        Console.WriteLine("crickets");
+        print("crickets");
     }
 }
